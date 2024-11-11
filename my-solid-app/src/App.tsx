@@ -13,6 +13,7 @@ const App: Component = () => {
         <div class={styles.box2}>Box C</div>
         <div class={styles.box2}>Box D</div>
         <div class={styles.box2}>Box E</div>
+        <div class={styles.box2}>Box F</div>
       </div>
     </div>
   );
