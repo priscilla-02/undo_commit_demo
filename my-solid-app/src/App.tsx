@@ -9,6 +9,7 @@ const App: Component = () => {
       </header>
       <div class={styles.container}>
         <div class={styles.box1}>Box A</div>
+        <div class={styles.box2}>Box B</div>
       </div>
     </div>
   );
