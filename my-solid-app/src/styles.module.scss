@@ -17,7 +17,8 @@
 
 .box1,
 .box2,
-.box3 {
+.box3,
+.box4 {
   width: 300px;
   height: 300px;
   color: white;
@@ -38,4 +39,7 @@
 
 .box3 {
   background-color: orange;
+}
+.box4 {
+  background-color: pink;
 }
