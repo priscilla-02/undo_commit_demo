@@ -12,7 +12,6 @@ const App: Component = () => {
         <div class={styles.box2}>Box B</div>
         <div class={styles.box3}>Box C</div>
         <div class={styles.box4}>Box D</div>
-        <div class={styles.box5}>Box E</div>
       </div>
     </div>
   );
