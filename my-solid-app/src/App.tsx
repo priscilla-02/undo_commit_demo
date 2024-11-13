@@ -7,13 +7,7 @@ const App: Component = () => {
       <header class={styles.header}>
         <title>Git Revert Changes Demo</title>
       </header>
-      <div class={styles.container}>
-        <div class={styles.box1}>Box A</div>
-        <div class={styles.box2}>Box B</div>
-        <div class={styles.box3}>Box C</div>
-        <div class={styles.box4}>Box D</div>
-        <div class={styles.box5}>Box E</div>
-      </div>
+      <div class={styles.container}></div>
     </div>
   );
 };
